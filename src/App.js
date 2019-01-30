@@ -66,5 +66,4 @@ deleteTodo(index) {
 }
 
 
-
 export default App;
